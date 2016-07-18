@@ -4,7 +4,7 @@ Simple project template the shows hooking up Kafka Producer and Consumer from th
 ## Prerequisites
 1. Horton Works HDP Sandbox Version 2.4
 2. Kafka broker turned on in the sandbox VM
-3. VM IP Address added to /etc/hosts file as xxx.xxx.xxx.xxx sandbox.hortonworks.com
+3. VM IP Address added to /etc/hosts file on the host machine as xxx.xxx.xxx.xxx sandbox.hortonworks.com
 
 
 ## Verifying Kafka on the sandbox
