@@ -25,3 +25,9 @@ cd /usr/hdp/current/kafka-broker/bin
 ```
 
 ## Using this project
+After verifying Kafka is running on the sanbox, open 2 terminal windows on the host machine in your local project folder.
+
+```bash
+sbt run
+```
+Will open a run dialog to start either the producer or consumer, in one terminal start the consumer, in the other start the producer. 
